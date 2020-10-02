@@ -1,0 +1,1 @@
+Implementing all the steps required to build a network - feedforward, loss computation, backpropagation, weight updates etc. using the MNIST dataset to train your model to classify handwritten digits between 0-9.
